@@ -1,4 +1,8 @@
-RxSwift Scan을 이용하여 무한 스크롤링을 함수형답게 구현하기.
+# RxSwift Scan을 이용하여 무한 스크롤링을 함수형답게 구현하기.
+
+
+https://sesang06.tistory.com/133
+
 
 Scan은 전의 옵저블을 옵저빙하여 새로운 값을 방출하는 옵저버입니다.
 
